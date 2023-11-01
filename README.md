@@ -1,5 +1,4 @@
 <h1>Hi there 👋</h1>
-<p>My name is Jakub Malhotra and I'm a highschool student in Canada.</p>
 
 <h2>✍ Programming Languages</h2>
 <p>
