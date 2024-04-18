@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<h1>I am experienced in the following: </h1>
+<h2>I am experienced in the following: </h2>
 
 <h2>✍ Programming Languages</h2>
 <p>
