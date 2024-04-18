@@ -8,6 +8,7 @@ I am experienced in the following: </h1>
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+  <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-%2300599C.svg?logo=cpp2&logoColor=white"></a>
 </p>
 
 <h2>💻 Operating Systems</h2>
