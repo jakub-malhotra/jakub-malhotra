@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-<h2>✍ Programming Languages</h2>
+<h2>✍ Languages</h2>
 <p>
   <a href="https://github.com/search?q=user%3Ajakub-malhotra+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Ajakub-malhotra+language%3Ago"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"></a>
@@ -22,10 +22,3 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jakub-malhotra)  
-
-
