@@ -9,6 +9,8 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<br>[![Language stats dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-malhotra&layout=compact&hide_border=true&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Language stats light](https://github-readme-stats.vercel.app/api/top-langs/?username=jakub-malhotra&layout=compact&card_width=500&hide_border=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 🔧 Tools
 
