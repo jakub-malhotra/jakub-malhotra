@@ -17,4 +17,4 @@ I am a Computer Science student at Carleton University, currently seeking a Soft
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📫 Let's Connect
-*   [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+*   [LinkedIn](https://www.linkedin.com/in/jakubmalhotra/)
